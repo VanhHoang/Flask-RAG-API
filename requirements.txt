@@ -1,0 +1,16 @@
+flask
+python-dotenv
+sentence_transformers
+google-generativeai==0.6.0
+IPython
+flask-cors
+pydantic==2.7.4
+openai==1.55.3
+vertexai==1.49.0
+google-cloud-aiplatform==1.49.0
+mistralai
+fastembed==0.3.1
+Flask-PyMongo==2.3.0
+pymongo==4.5.0
+Werkzeug==2.3.7
+dnspython==2.4.2
