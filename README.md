@@ -2,6 +2,11 @@
 
 **Flask-RAG-API** is an end-to-end Retrieval-Augmented Generation (RAG) service built using Flask. It provides both a normal chat interface powered by Google Gemini and a RAG-enabled chat interface that dynamically routes queries to a semantic router and enhances them with product-specific information from a MongoDB-backed knowledge base. The API also includes user authentication, conversation history management, and a simple frontend.
 
+## 🔗 Web Demo
+
+👉 Access the live demo: [http://hoangvanh.id.vn:5000/](http://hoangvanh.id.vn:5000/)
+
+
 ## 🚀 Features
 
 * **User Authentication**: Register, log in, and log out with hashed passwords (Werkzeug).
